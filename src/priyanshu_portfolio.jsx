@@ -380,7 +380,7 @@ export default function Portfolio() {
             }}>
               {[
                 { label: "EMAIL", val: "ps2362204@gmail.com", href: "mailto:ps2362204@gmail.com" },
-                { label: "LINKEDIN", val: "priyanshukumar", href: "https://linkedin.com/in/priyanshukumar" },
+                { label: "LINKEDIN", val: "priyanshukumar", href: "https://www.linkedin.com/in/priyanshu-kumar-9142dp/" },
                 { label: "PHONE", val: "+91 9142659361", href: "tel:+919142659361" },
               ].map(c => (
                 <a key={c.label} href={c.href} target="_blank" rel="noreferrer" className="pk-contact-card">
